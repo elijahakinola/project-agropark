@@ -1,0 +1,173 @@
+[33mcommit b24c314f369be01f3ade47f589928706c5580978[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Elijah <elijahanibi@gmail.com>
+Date:   Sun Apr 12 13:04:01 2020 +0100
+
+    updating my repo
+
+[33mcommit 54523102382666896a42e9647ee949171c0630b0[m[33m ([m[1;31mupstream/master[m[33m)[m
+Merge: a66d78e 447d993
+Author: Martins Abiodun <martinsabiodun94@gmail.com>
+Date:   Thu Apr 2 18:29:25 2020 +0100
+
+    Merge pull request #8 from zeefola/master
+    
+    Added headings to homepage n quote to slider
+
+[33mcommit 447d9937771c735ed8d8de2d4bfc79f6348d83cf[m
+Author: zeefola <zeefola@gmail.com>
+Date:   Thu Apr 2 13:42:45 2020 +0100
+
+    Added headings to homepage n quote to slider
+
+[33mcommit a66d78ea97c9bd213b2d485bb2670bfb738cc36e[m
+Merge: d1eff3a 7b679e1
+Author: Martins Abiodun <martinsabiodun94@gmail.com>
+Date:   Wed Apr 1 22:12:50 2020 +0100
+
+    Merge pull request #7 from zeefola/master
+    
+    Added headings to homepage
+
+[33mcommit 7b679e190fa77b3a2f6cd098553cfb071b6af5da[m
+Author: zeefola <zeefola@gmail.com>
+Date:   Wed Apr 1 21:35:17 2020 +0100
+
+    Added headings to homepage
+
+[33mcommit d1eff3aa5dbb3cc66f78bf247972b5c7ce8ae2da[m
+Merge: 4c99adc 00c2f36
+Author: Martins Abiodun <martinsabiodun94@gmail.com>
+Date:   Sun Mar 29 12:08:29 2020 +0100
+
+    Merge pull request #6 from zeefola/master
+    
+    Removed next button from subscription pages
+
+[33mcommit 00c2f36987c281cbada00471111504dc52f95c8e[m
+Author: zeefola <zeefola@gmail.com>
+Date:   Sat Mar 28 14:07:20 2020 +0100
+
+    Removed next button from subscription pages
+
+[33mcommit 4c99adc364373953b8970b2dfd344de7be9dcafc[m
+Merge: 8de5082 0445db3
+Author: Martins Abiodun <martinsabiodun94@gmail.com>
+Date:   Fri Mar 27 14:11:16 2020 +0100
+
+    Merge pull request #5 from zeefola/master
+    
+    Poultry SUbscription
+
+[33mcommit 0445db369da285a83bbb39e2de5bd77e0583268c[m
+Author: zeefola <zeefola@gmail.com>
+Date:   Fri Mar 27 14:07:27 2020 +0100
+
+     Added content to farmland and cashcrop subscription
+
+[33mcommit 1d9e3bcc4bcbc213e4f2cef042c6e234e162a96a[m
+Author: zeefola <zeefola@gmail.com>
+Date:   Fri Mar 27 11:36:02 2020 +0100
+
+    Poultry SUbscription
+
+[33mcommit 8de5082dab64f2e8a9a3caa48226884913a519f4[m
+Merge: cee658e d73fee8
+Author: Martins Abiodun <martinsabiodun94@gmail.com>
+Date:   Thu Mar 26 14:28:19 2020 +0100
+
+    Merge pull request #4 from zeefola/master
+    
+    Addede content to FAQ page
+
+[33mcommit d73fee8f1a645032752203138bf818f28aa00fb6[m
+Author: zeefola <zeefola@gmail.com>
+Date:   Thu Mar 26 13:05:00 2020 +0100
+
+    Addede content to FAQ page
+
+[33mcommit cee658e0de76956a1c3636e925c02c499b2a886e[m
+Author: Martins Abiodun <martinsabiodun94@gmail.com>
+Date:   Tue Mar 24 10:33:54 2020 +0100
+
+    added cashcrop page, farmland page, fishery page and poultry page
+
+[33mcommit 7c368c81fadc4dda291debb9cea0867304f23c58[m
+Merge: 061e51d c630ebe
+Author: Martins Abiodun <martinsabiodun94@gmail.com>
+Date:   Mon Mar 23 15:16:54 2020 +0100
+
+    Merge pull request #3 from zeefola/master
+    
+    Added content to about us page
+
+[33mcommit 061e51d3267f4239f3b2093c53c9484f1ab8d7b2[m
+Author: Martins Abiodun <martinsabiodun94@gmail.com>
+Date:   Mon Mar 23 14:07:40 2020 +0100
+
+    worked on faq and modified header
+
+[33mcommit d8b031ad508562aa66bf825098709a626b1ed784[m
+Author: Martins Abiodun <martinsabiodun94@gmail.com>
+Date:   Mon Mar 23 12:17:41 2020 +0100
+
+    added graduate-trainee page, academy page and fixed the active links on the header
+
+[33mcommit c630ebe40e49da2ee9a05f21e85315e47ab5024a[m
+Author: zeefola <zeefola@gmail.com>
+Date:   Fri Mar 20 16:56:00 2020 +0100
+
+    Added content to about us page
+
+[33mcommit 6b3db0a9cea02bc66ee82aa42c311020de34500b[m
+Author: Martins Abiodun <martinsabiodun94@gmail.com>
+Date:   Fri Mar 20 09:46:52 2020 +0100
+
+    Added Brochure, Bulletin , Gallery and Partners page
+
+[33mcommit 13ad3c6dda7e3946992139c5f4d896bee3724eb6[m
+Merge: 5965a75 9555013
+Author: Martins Abiodun <martinsabiodun94@gmail.com>
+Date:   Thu Mar 19 20:00:28 2020 +0100
+
+    Merge pull request #2 from zeefola/master
+    
+    Worked on footer, contact us and about us
+
+[33mcommit 9555013b2a80700097d23ac31385e0bdcdc7a0ec[m
+Author: zeefola <zeefola@gmail.com>
+Date:   Thu Mar 19 19:19:58 2020 +0100
+
+    Worked on footer, contact us and about us
+
+[33mcommit 5965a75da8118c575319eaacc2b0a2b580e9ad00[m
+Author: Martins Abiodun <martinsabiodun94@gmail.com>
+Date:   Thu Mar 19 13:53:48 2020 +0100
+
+    worked on about us, homepage and our team
+
+[33mcommit 38f810e80b8a2c42651437a81914170a0892cacd[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 82a0bb8 57ffefc
+Author: Martins Abiodun <martinsabiodun94@gmail.com>
+Date:   Wed Mar 18 20:09:49 2020 +0100
+
+    Merge pull request #1 from elijahakinola/master
+    
+    I Modified the Header
+
+[33mcommit 57ffefc732678c0425c717e4eabaa7d3421c4638[m
+Author: Elijah <elijahanibi@gmail.com>
+Date:   Wed Mar 18 20:06:23 2020 +0100
+
+    I Modified the Header
+
+[33mcommit 82a0bb8342df0b319aaa912ab9049d28b1d95aec[m
+Author: Martins Abiodun <martinsabiodun94@gmail.com>
+Date:   Wed Mar 18 15:02:18 2020 +0100
+
+    initial commit
+
+[33mcommit b10b9f61e2322e1f9a7d4c69b6dc4601500899ac[m
+Author: Martins Abiodun <martinsabiodun94@gmail.com>
+Date:   Wed Mar 18 09:49:56 2020 +0100
+
+    init
